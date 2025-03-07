@@ -1,0 +1,14 @@
+{
+  "type": "dynamictreesplus:mushroom",
+  "common_cap": "dynamictreesplus:red_mushroom",
+  "common_species": "dynamictreesplus:red_mushroom",
+  "primitive_log": "mushroom_stem",
+  "primitive_stripped_log": "enhanced_mushrooms:stripped_mushroom_stem",
+  "stick": "air",
+  "generate_stripped_branch": true,
+  "max_branch_radius": 24,
+  "texture_overrides": {
+    "branch": "block/mushroom_stem",
+    "branch_top": "enhanced_mushrooms:block/mushroom_stem_top"
+  }
+}

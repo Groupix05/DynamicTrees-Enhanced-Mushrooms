@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "enhanced_mushrooms:block/stripped_mushroom_stem",
+    "rings": "enhanced_mushrooms:block/stripped_mushroom_stem_top"
+  }
+}
