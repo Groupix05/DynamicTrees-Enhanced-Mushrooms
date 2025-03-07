@@ -42,3 +42,10 @@ Adds Dynamic Trees compatibility for Enhanced Mushrooms.
     versionRange="[1.2.0-BETA1,)"
     ordering="AFTER"
     side="BOTH"
+
+[[dependencies.dtenhanced_mushrooms]]
+    modId="enhanced_mushrooms"
+    mandatory=true
+    versionRange="[5.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
