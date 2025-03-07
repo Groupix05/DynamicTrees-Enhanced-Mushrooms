@@ -1,13 +1,13 @@
 license="MIT"
 modLoader="javafml"
 loaderVersion="[47,)"
-issueTrackerURL="https://github.com/DynamicTreesTeam/DynamicTrees/issues"
+issueTrackerURL="https://github.com/Groupix05/DynamicTrees-Enhanced-Mushrooms/issues"
 
 [[mods]]
 modId="dtenhanced_mushrooms"
 version="${file.jarVersion}"
 displayName="Dynamic Trees for Enhanced Mushrooms"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamictrees"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-enhanced-mushrooms"
 logoFile="logo.png"
 credits=""
 authors="Wenxin2"
